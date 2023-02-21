@@ -9,7 +9,7 @@ public class TestController {
 	@RequestMapping("/test")
 	@ResponseBody
 	public String handler() {
-		return "hello worlds";
+		return "hello world how are you";
 	}
 
 }
